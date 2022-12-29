@@ -1,0 +1,16 @@
+/* collection is a interface .where it can store unlimited  data like array. But array has limited memory
+  exmaple  arr[] a = new arr[4]
+  That's why we use collections.
+  collection is a interface it extends List. List is a interface ,it implemented by ArrayList
+  generic means which type collections are using.<class>
+
+  syntax: Collection<Integer> value = new ArrayList<Integer>();
+  we have 1:collections
+          2:List   List<Double> value = new ArrayList<Double>();
+          3:Set    set<String> value = new
+
+   important:
+             List list = new ArrayList(); // before generics
+             List<Integer> list = new ArrayList<Integer>();// after genric assigned like these.
+               generics are class example: Integer,Double,String are classes.
+  */

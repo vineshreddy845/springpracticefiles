@@ -12,6 +12,19 @@ public class mains {
        // Beanannotation boo1 = context.getBean(Beanannotation.class);
         //boo1.hello();
         boo.namste();
+
+
     }
+}
+
+
+/*@Bean
+// Here the method name is the
+// bean id/bean name
+
+public College collegeBean()
+{
+    // Returns the College object
+    return new College();
 }
 
